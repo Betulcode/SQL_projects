@@ -1,0 +1,1 @@
+SELECT printf('%.2f',AVG(milliseconds)) as rounded_AVG from Tracks
